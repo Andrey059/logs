@@ -1,4 +1,0 @@
-[logs]
-otuslog ansible_host=127.0.0.1 ansible_private_key_file=/home/iteco/logs/.vagrant/machines/otuslog/virtualbox/private_key
-[webs]
-otusweb ansible_host=127.0.0.1 ansible_private_key_file=/home/iteco/logs/.vagrant/machines/otusWeb/virtualbox/private_key
